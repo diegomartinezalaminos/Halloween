@@ -1,12 +1,13 @@
 
 @font-face{
     font-family: dracula;
-    src: url("fuente/dracula.TTF");
+    src: url("../fuente/dracula.ttf");
 }
 
 body{
     background-image: url("../img/rayo.gif");
     background-color: black;
+    background-repeat: no-repeat;
     background-size: cover;
 }
 
